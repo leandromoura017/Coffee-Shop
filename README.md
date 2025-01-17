@@ -20,6 +20,7 @@ O website tem três páginas principais:
   - Adiciona um item ao web storage.
 
 #### Imagem:
+![Image](https://github.com/user-attachments/assets/712caa14-c764-4284-8fa3-4b5aca68b35b)
     
 ### 2. Página de Carrinho de Compras 
 - Lista todos os itens adicionados ao carrinho (web storage). 
@@ -34,6 +35,7 @@ O website tem três páginas principais:
 finalização.
 
 #### Imagem:
+![Image](https://github.com/user-attachments/assets/6bae3580-4073-4026-9fb5-71c7c1ac1810)
 
 ### 3. Página de Finalização de Compra 
 - Exibe os itens que estavam no carrinho no momento de sua finalização. 
@@ -46,3 +48,4 @@ finalização.
   - Limpa os dados do carrinho no Web Storage.
 
   #### Imagem:
+![Image](https://github.com/user-attachments/assets/1fdfa48b-3212-4af6-86ae-5e490ae438b6)
